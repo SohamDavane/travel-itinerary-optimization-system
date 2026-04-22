@@ -1,7 +1,13 @@
 venv/
+<<<<<<< HEAD
 myenv/
 __pycache__/
 *.pyc
 .env
 pdfs/
 .DS_Store
+=======
+__pycache__/
+*.pyc
+.env
+>>>>>>> 1cf7b0d1eb73b503fee403cc834ec4d4f54cd372

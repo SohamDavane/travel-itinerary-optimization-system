@@ -8,11 +8,11 @@
    - ✅ Rewrite full content matching task1 style. [Created new README.md]
 
 2. **GitHub Upload** all files to https://github.com/SohamDavane/travel-itinerary-optimization-system.git
-   - [ ] git init
-   - [ ] Update .gitignore (exclude myenv/, pdfs/)
-   - [ ] git add .
-   - [ ] git commit
-   - [ ] git remote add origin / push -u origin main
+   - ✅ git init
+   - ✅ Update .gitignore (exclude myenv/, pdfs/)
+   - ✅ git add .
+   - ✅ git commit
+   - ✅ git remote add origin / push -u origin main (pulled remote, resolved conflicts, pushed)
 
 3. **Verify**
    - [ ] Check GitHub repo renders READMEs correctly.
